@@ -14,6 +14,8 @@
 ## Over view of the project:
 
 ## Project: Social Media Platform
+![image](https://github.com/user-attachments/assets/3fbd3199-2ebe-4d7d-abe1-82bcf712d53e)
+
 
 ## Objectives
 ## Key Activities
