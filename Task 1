@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.top-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-bottom: 1px solid #333333;
+}
+
+.top-bar h1 {
+  margin: 0;
+}
+
+.top-bar .icons {
+  display: flex;
+  align-items: center;
+}
+
+.top-bar .icon {
+  margin-right: 15px;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px 20px;
+}
+
+.profile {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.profile img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
+.profile h3 {
+  margin: 5px 0 0 0;
+}
+
+.story-container {
+  padding: 10px 20px;
+}
+
+.story {
+  display: flex;
+  align-items: center;
+  background-color: #222222;
+  padding: 10px 15px;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+.story img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.story-text {
+  display: flex;
+  flex-direction: column;
+}
+
+.story-text h4 {
+  margin: 0;
+}
+
+.story-text p {
+  margin: 2px 0 0 0;
+}
+
+.main-image {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.bottom-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 20px;
+  border-top: 1px solid #333333;
+}
+
+.bottom-bar .icons {
+  display: flex;
+  align-items: center;
+}
+
+.bottom-bar .icon {
+  margin-right: 15px;
+}
+
+.bottom-bar .likes {
+  margin-left: 15px;
+}
+</style>
+</head>
+<body>
+
+<div class="top-bar">
+  <h1>Instagram</h1>
+  <div class="icons">
+    <i class="icon fas fa-heart"></i>
+    <i class="icon fas fa-comment"></i>
+  </div>
+</div>
+
+<div class="profile-container">
+  <div class="profile">
+    <img src="https://via.placeholder.com/60" alt="Profile Picture">
+    <h3>Your story</h3>
+  </div>
+  <div class="profile">
+    <img src="https://via.placeholder.com/60" alt="Profile Picture">
+    <h3>anshika._200...</h3>
+  </div>
+  <div class="profile">
+    <img src="https://via.placeholder.com/60" alt="Profile Picture">
+    <h3>_mahim.aaa</h3>
+  </div>
+  <div class="profile">
+    <img src="https://via.placeholder.com/60" alt="Profile Picture">
+    <h3>pur.vaaah</h3>
+  </div>
+</div>
+
+<div class="story-container">
+  <div class="story">
+    <img src="https://via.placeholder.com/40" alt="Profile Picture">
+    <div class="story-text">
+      <h4>sharvari</h4>
+      <p>♫ The Weeknd, Kendrick Lamar • Pray</p>
+    </div>
+  </div>
+</div>
+
+<img src="https://via.placeholder.com/600x400" alt="Main Image" class="main-image">
+
+<div class="bottom-bar">
+  <div class="icons">
+    <i class="icon fas fa-heart"></i>
+    <i class="icon fas fa-comment"></i>
+    <i class="icon fas fa-paper-plane"></i>
+  </div>
+  <div class="likes">
+    <p>Liked by aliaabhatt and 168.529 others</p>
+  </div>
+</div>
+
+<div class="bottom-nav">
+  <i class="icon fas fa-home"></i>
+  <i class="icon fas fa-search"></i>
+  <i class="icon fas fa-plus"></i>
+  <i class="icon fas fa-play"></i>
+</div>
+
+</body>
+</html>
