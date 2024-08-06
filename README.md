@@ -11,8 +11,6 @@
 ## PROJECT: SOCIAL MEDIA PLATFORM
 
 ## OBJECTIVES
-
-
 ## KEY ACTIVITIES
 - **Front-end Development:** Design and implement the user interface using HTML, CSS, and JavaScript.
 - **Back-end Development:** Create the server-side logic using a programming language like Python, Node.js, Java, or PHP, with database management (e.g., MySQL, PostgreSQL, MongoDB) to store user data, images, and interactions.
