@@ -13,7 +13,7 @@
 
 ## Over view of the project:
 
-## PROJECT: Social Media Platform
+## Project: Social Media Platform
 
 ## Objectives
 ## Key Activities
